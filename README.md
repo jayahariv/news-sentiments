@@ -48,7 +48,7 @@ python3 sentiment_analysis.py 2   # Uses 'cardiffnlp/twitter-roberta-base-emotio
 
 ## Example Output
 
-I am using the output to create bar / pie charts. 
+I am using the output to create bar / pie charts, using PowerBI. 
 
 <img width="1116" height="594" alt="Screenshot 2025-08-01 at 11 19 22 AM" src="https://github.com/user-attachments/assets/08ca64b1-93aa-46cf-b406-94058e6666dc" />
 
