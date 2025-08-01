@@ -48,13 +48,10 @@ python3 sentiment_analysis.py 2   # Uses 'cardiffnlp/twitter-roberta-base-emotio
 
 ## Example Output
 
-```
-Title: 'Stock markets rally amid economic optimism'
-Sentiment: joy
+I am using the output to create bar / pie charts. 
 
-Title: 'Wildfires cause evacuation in California'
-Sentiment: fear
-```
+<img width="1116" height="594" alt="Screenshot 2025-08-01 at 11 19 22 AM" src="https://github.com/user-attachments/assets/08ca64b1-93aa-46cf-b406-94058e6666dc" />
+
 
 ## Requirements
 
