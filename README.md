@@ -50,7 +50,14 @@ python3 sentiment_analysis.py 2   # Uses 'cardiffnlp/twitter-roberta-base-emotio
 
 I am using the output to create bar / pie charts, using PowerBI. 
 
+### sentiment analysis
 <img width="1116" height="594" alt="Screenshot 2025-08-01 at 11 19 22 AM" src="https://github.com/user-attachments/assets/08ca64b1-93aa-46cf-b406-94058e6666dc" />
+
+### topic clustering LDA
+<img width="943" height="530" alt="Screenshot 2025-08-01 at 4 09 44 PM" src="https://github.com/user-attachments/assets/887e9770-20f4-42d1-90ba-1b0be06c368f" />
+
+### topic clustering NMF
+<img width="938" height="520" alt="Screenshot 2025-08-01 at 4 10 02 PM" src="https://github.com/user-attachments/assets/51330f8d-b3b3-4fb9-ac69-e0ba2b5130d5" />
 
 
 ## Requirements
